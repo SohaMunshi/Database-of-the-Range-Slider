@@ -1,4 +1,6 @@
 # Database-of-the-Range-Slider
+#إنشاء قاعدة بيانات التحكم بالقاعدة
+
 The database has been created by XAMPP 
 The database contains 3 columns and 6 rows
 The columns are Name, value, and direction.
